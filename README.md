@@ -9,3 +9,6 @@ The data we provide has been adjusted by professionals. You can process it to ma
 
 ![1743560059717](https://github.com/user-attachments/assets/5db6b82c-240b-4f0c-b1ec-51aa19c807fe)
 You can change the window length to implement multi-scale datasets.
+
+
+This work is under review in the Journal of Applied Geophysics. If you use this dataset, please cite the github URL in your paper.
