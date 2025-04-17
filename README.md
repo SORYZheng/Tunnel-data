@@ -3,7 +3,9 @@
 
 We kindly request your assistance in translating all labels in the above documents into your native language. Reading them in your own language will help you to understand them better.
 
-Due to the considerable storage space required for the dataset, it is stored at https://www.aliyundrive.com/drive/album. We would like to kindly direct you to the Aliyundrive account. The account of the aliyundrive: 13303808613; PIN：HSBRD12.
+Due to the considerable storage space required for the dataset, it is stored at https://www.aliyundrive.com/drive/album. We would like to kindly direct you to the Aliyundrive account. The account of the aliyundrive: 13303808613; PIN：HSBRD12. 
+
+When downloading files, you may need a verification code. Please do not hesitate to contact me via the email address below and I will reply to you with the verification code in real time.
 
 The data we provide has been adjusted by professionals. Of course, you can also process it further. We provide MATLAB software(GPR_Processor.exe) for data processing. Before running the software, you need to install MATLAB Runtime (R2023a).
 
